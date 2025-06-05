@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class AutoSuggestion{
+public class AutoSuggestion {
 	public static void main(String arg[])
 	{
 		System.setProperty("webdriver.chrome.driver","chromedriver.exe");
